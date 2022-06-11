@@ -9,7 +9,7 @@ public class Cliente {
 	boolean clienteAtivo;
 	
 	
-	void cadatrarCliente(String nomeDoCliente, int idadeDoCliente, boolean clienteAtivo) {
+	void cadastrarCliente(String nomeDoCliente, int idadeDoCliente, boolean clienteAtivo) {
 		
 		nome = nomeDoCliente;
 		idade = idadeDoCliente;
